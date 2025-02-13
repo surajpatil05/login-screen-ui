@@ -1,0 +1,8 @@
+/android
+/ios
+/linux
+/macos
+/windows
+/build
+/test
+!build/web
