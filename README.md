@@ -28,5 +28,6 @@ Check out the live version of the **Login Screen UI**:
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/login-screen-ui.git](https://www.google.com/search?q=https://github.com/your-username/login-screen-ui.git)  // Replace with your repo URL
+```bash
+git clone https://github.com/your-username/login-screen-ui.git  # Replace with your actual GitHub repository URL
+```
