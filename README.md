@@ -6,7 +6,8 @@ This app provides a user interface for login and signup functionality. It includ
 
 ## 🚀 Live Demo  
 Check out the live version of the **Login Screen UI**:  
-Tap/Click on 👉 [![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://login-screen-ui.vercel.app/)
+
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://login-screen-ui.vercel.app/)
 
 ## Features
 
