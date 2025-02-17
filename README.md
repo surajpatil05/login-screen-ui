@@ -20,9 +20,9 @@ Check out the live version of the **Login Screen UI**:
 ## Mobile Screenshots
 
 <p align="center">
-  <img src="./welcome_screen_mobile.png" alt="Welcome Screen Mobile" width="30%"/>
-  <img src="./login_screen_mobile.png" alt="Login Screen Mobile" width="30%"/>
-  <img src="./signup_screen_mobile.png" alt="Signup Screen Mobile" width="30%"/>
+  <img src="./app_screenshots/welcome_screen_mobile.png" alt="Welcome Screen Mobile" width="30%"/>
+  <img src="./app_screenshots/login_screen_mobile.png" alt="Login Screen Mobile" width="30%"/>
+  <img src="./app_screenshots/signup_screen_mobile.png" alt="Signup Screen Mobile" width="30%"/>
 </p>
 
 ## Installation
