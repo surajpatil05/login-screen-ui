@@ -1,4 +1,4 @@
-# Login_Screen_UI App
+# Login Screen UI App
 
 ## Description
 
@@ -31,3 +31,9 @@ Check out the live version of the **Login Screen UI**:
 ```bash
 git clone https://github.com/your-username/login-screen-ui.git  # Replace with your actual GitHub repository URL
 ```
+## Dependencies 
+
+| Package               | Purpose                              |
+|-----------------------|--------------------------------------|
+| `cupertino_icons`     | iOS-style icons                      |
+| `flutter_screenutil`  | Responsive layout and screen size utilities |
