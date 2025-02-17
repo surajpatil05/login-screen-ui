@@ -1,7 +1,4 @@
 # Login Screen UI App
-
-## Description
-
 This app provides a user interface for login and signup functionality. It includes welcome screens, login screens with email validation, signup screens, and utilizes a clean and responsive design.
 
 ## 🚀 Live Demo  
